@@ -48,9 +48,13 @@ Anamika Patel	@Anamikapatel01	Model evaluation, performance tuning, and document
 Achieved high classification accuracy on test data
 
 Model successfully predicts malignant vs. benign with strong precision and recall
+## 👥 Team Members & Contributions
 
-📄 License
-This project is open-source under the MIT License.
+| Name | GitHub | Responsibilities |
+|------|---------|------------------|
+| **Sukrit Raj** | [@sukritraj02](https://github.com/sukritraj02) | Data preprocessing, model development, and final integration |
+| **Ayushi Kumari** | [@imayushi001](https://github.com/imayushi001) | Exploratory Data Analysis (EDA), visualizations, and report preparation |
+| **Anamika Patel** | [@Anamikapatel01](https://github.com/Anamikapatel01) | Model evaluation, performance tuning, and documentation |
 
 💡 Future Work
 Experiment with advanced models (Random Forest, SVM, XGBoost)
