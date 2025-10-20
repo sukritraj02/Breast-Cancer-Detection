@@ -61,12 +61,6 @@ Perform hyperparameter tuning for better generalization
 
 Developed with ❤️ by Sukrit Raj, Ayushi Kumari, and Anamika Patel
 
-yaml
-Copy code
-
----
-
-Would you like me to generate a matching `requirements.txt` (for pip install) to go with this README?
 
 
 
