@@ -37,7 +37,7 @@ cd Breast-Cancer-Detection
 pip install -r requirements.txt
 jupyter notebook
 Open Model_Development.ipynb, run all cells, and view predictions.
-
+```
 👥 Team Members & Contributions
 Name	GitHub	Responsibilities
 Sukrit Raj	@sukritraj02	Data preprocessing, model development, and final integration
